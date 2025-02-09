@@ -21,6 +21,11 @@
 
 ## 功能描述
 工程项目管理系统功能包括但不限于立项管理、项目预算、投标管理、合同管理、采购管理、施工进度、质量管理、验收管理、财务管理、物资管理、文件管理、任务提醒、业务审批、流程管理等；数据统计功能以ECharts图表形式直观呈现。
+
+## 功能对比
+<p align="center">
+	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/contrast.png">
+</p>
 ## 软件白皮书
 <table>
     <tr>
