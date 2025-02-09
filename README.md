@@ -5,12 +5,11 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程项目管理系统V2.0-NEW</h1>
 <h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，移动端基于UniApp</h4>
 
-<p align="center">
-	[![JDK-8+](https://img.shields.io/badge/JDK-8-green.svg)]()
-    [![JDK-11](https://img.shields.io/badge/JDK-11-green.svg)]()
-</p>
 
-[![免费 开源版](https://gitee.com/xnqysabout/ry-vue-flowable-xg)]
+[![JDK-8+](https://img.shields.io/badge/JDK-8-green.svg)]()
+[![JDK-11](https://img.shields.io/badge/JDK-11-green.svg)]()
+
+
 
 ## 平台简介
 工程项目管理系统是一款专为工程项目公司打造的综合性OA办公系统，旨在满足工程项目进度及成本控制管理，助力企业高效办公，全方位整合信息技术与项目管理理念。本项目二次开发，该系统分为管理端和小程序端两部分，管理端基于基于若依框架ruoyi-vue二次开发，SpringBoot+Vue前后端分离，移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！工作流整合国产开源工作流引擎Warm-Flow，简洁轻量，五脏俱全，易扩展。
