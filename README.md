@@ -122,10 +122,13 @@
 管理端：即将发布<br>
 移动端：请扫描二维码体验（即将发布）
 
+## 获取源码
+获取源码请咨询售前客服
+
 ## 特别鸣谢
 * RuoYi-vue
 * RuoYi-app
 * warm-flow
 
 ## QQ群交流
-> 加QQ群：749272719，加微信：javaPioneer
+> 加QQ群：605069634 ，加微信：javaPioneer
