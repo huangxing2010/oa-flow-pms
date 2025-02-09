@@ -5,10 +5,10 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程项目管理系统V2.0-NEW</h1>
 <h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，移动端基于UniApp</h4>
 
-
-[![JDK-8+](https://img.shields.io/badge/JDK-8-green.svg)]()
-[![JDK-11](https://img.shields.io/badge/JDK-11-green.svg)]()
-
+<p align="center" style="font-size:24px">
+[![免费-开源班](https://gitee.com/xnqysabout/ry-vue-flowable-xg)]()
+[![定制-旗舰版](https://gitee.com/xnqysabout/oa-flow-pms)]()
+</p>
 
 
 ## 平台简介
