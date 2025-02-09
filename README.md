@@ -6,9 +6,14 @@
 <h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，移动端基于UniApp</h4>
 
 
-[![免费-开源班](https://gitee.com/xnqysabout/ry-vue-flowable-xg)]()
-[![定制-旗舰版](https://gitee.com/xnqysabout/oa-flow-pms)]()
-
+<p align="center">
+   <a href="https://gitee.com/xnqysabout/oa-flow-pms">
+	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn01">
+    </a>
+    <a href="https://gitee.com/xnqysabout/ry-vue-flowable-xg">
+	  <img alt="旗舰版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn02">
+    </a>
+</p>
 
 
 ## 平台简介
