@@ -8,10 +8,10 @@
 
 <p align="center">
    <a href="https://gitee.com/xnqysabout/oa-flow-pms">
-	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/images/btn01.png">
+	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn01.png">
     </a>
     <a href="https://gitee.com/xnqysabout/ry-vue-flowable-xg">
-	  <img alt="旗舰版" src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/images/btn02.png">
+	  <img alt="旗舰版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn01.png">
     </a>
 </p>
 
