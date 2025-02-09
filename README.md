@@ -81,6 +81,19 @@
 - [x] 重要提醒：对工作中的事件做的任务提醒，办理情况等内容，任务办理统计及预警提示；
 
 ## 预览截图
+### 移动端
+<table>
+    <tr>
+        <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/demo/wap01.jpg"/></td>
+        <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/demo/wap02.jpg"/></td>
+    <tr>
+    <tr>
+        <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/demo/wap03.jpg"/></td>
+        <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/demo/wap04.jpg"/></td>
+    <tr>
+</table>
+
+### 管理端
 <table>
     <tr>
         <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/demo/demo01.jpg"/></td>
