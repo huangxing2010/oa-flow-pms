@@ -121,7 +121,10 @@
 
 管理端：[pms.oa.system-code.vip](http://pms.oa.system-code.vip/)<br>
 移动端：请扫描二维码体验<br>
-<img src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/wem.png" style="width: 200px;height: 200px;"/>
+
+<p align="left">
+	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/wem.png" style="width: 200px;height: 200px;">
+</p>
 
 <table>
     <tr>
