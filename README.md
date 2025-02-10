@@ -120,10 +120,12 @@
 ## 预览体验
 
 管理端：[pms.oa.system-code.vip](http://pms.oa.system-code.vip/)<br>
-移动端：请扫描二维码体验<br>
+移动端：请扫描二维码体验
 
-<p align="center">
-	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/logo.jpg">
+
+
+<p align="left">
+	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/ewm.jpg">
 </p>
 
 
