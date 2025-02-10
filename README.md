@@ -119,8 +119,21 @@
 
 ## 预览体验
 
-管理端：即将发布<br>
-移动端：请扫描二维码体验（即将发布）
+管理端：[pms.oa.system-code.vip](http://pms.oa.system-code.vip/)<br>
+移动端：请扫描二维码体验<br>
+<img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/ewm.png" style="width: 200px;height: 200px;"/>
+
+<table>
+    <tr>
+        <td>用户名</td>
+        <td>密码</td>
+    </tr>
+    <tr>
+        <td>ry</td>
+        <td>111111</td>
+    </tr>
+<tr>
+</table>
 
 ## 获取源码
 获取源码请咨询售前客服
