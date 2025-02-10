@@ -122,11 +122,7 @@
 管理端：[pms.oa.system-code.vip](http://pms.oa.system-code.vip/)<br>
 移动端：请扫描二维码体验
 
-
-
-<p align="left">
-	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/blob/master/doc/ewm.jpg">
-</p>
+<img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/ewm.jpg" width="200px" height="200px" />
 
 
 <table>
@@ -143,6 +139,7 @@
 
 ## 获取源码
 获取源码请咨询售前客服
+<img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/wx.jpg" width="200px" height="200px" />
 
 ## 特别鸣谢
 * RuoYi-vue
