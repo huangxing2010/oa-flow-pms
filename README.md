@@ -120,7 +120,7 @@
 ## 预览体验
 
 管理端：[pms.oa.system-code.vip](http://pms.oa.system-code.vip/)<br>
-移动端：请扫描二维码体验
+移动端：请扫描二维码体验<br>
 
 <img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/ewm.jpg" width="200px" height="200px" />
 
@@ -138,7 +138,7 @@
 </table>
 
 ## 获取源码
-获取源码请咨询售前客服
+获取源码请咨询售前客服<br>
 <img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/wx.jpg" width="200px" height="200px" />
 
 ## 特别鸣谢
