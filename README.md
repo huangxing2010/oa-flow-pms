@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程项目管理系统V2.0-NEW</h1>
-<h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，移动端基于UniApp</h4>
+<h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，工作流集成Warm-Flow;移动端基于UniApp</h4>
 
 
 <p align="center" style="margin-top: 50px;">
@@ -144,7 +144,7 @@
 ## 特别鸣谢
 * RuoYi-vue
 * RuoYi-app
-* warm-flow
+* Warm-Flow
 
 ## QQ群交流
 > 加QQ群：605069634 ，加微信：javaPioneer
