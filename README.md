@@ -138,7 +138,7 @@
 </table>
 
 ## 获取源码
-获取源码请咨询售前客服<br>
+获取源码请咨询售前客服，[点击进入官网查看报价](https://www.xnqys.com/article/4.html)<br>
 <img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/wx.jpg" width="200px" height="200px" />
 
 ## 特别鸣谢
