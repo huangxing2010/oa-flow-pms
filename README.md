@@ -28,6 +28,7 @@
 </p>
 
 ## 软件白皮书
+> 白皮书CDR转曲文件已放置doc目录下，有需要的小伙伴可以自行拉取！携手并进，共谋发展之路，是我们共同的追求和担当！
 <table>
     <tr>
         <td><img src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/book00.jpg"/></td>
