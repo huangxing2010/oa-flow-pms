@@ -28,6 +28,10 @@
         <td style="width: 200px;">细则描述</td>
         <td>完成日期</td>
     </tr>
+     <tr>
+        <td style="width: 200px;">完成移动端echarts图表看板</td>
+        <td>2025-03-13</td>
+    </tr>
     <tr>
         <td style="width: 200px;">完善手机版物资、文件、知识库、立项管理等模块；管理端弹出框锁定空白不退出的设置；</td>
         <td>2025-03-02</td>
