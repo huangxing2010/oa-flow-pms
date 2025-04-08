@@ -1,17 +1,18 @@
 <p align="center">
-	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/logo.jpg">
+	<img alt="logo" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/logo.jpg" width="110px" height="100px" >
 </p>
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程项目管理系统V2.0-NEW</h1>
+<h3 align="center" style="color: #19be6b">排斥低代码！用自己的方式忠于热爱！</h3>
 <h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，工作流集成Warm-Flow;移动端基于UniApp</h4>
 
 
 <p align="center" style="margin-top: 50px;">
    <a href="https://gitee.com/xnqysabout/oa-flow-pms">
-	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn02.png">
-    </a>
+	  <img alt="开源版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn02.png" width="85px" height="30px" >
+    </a> 
     <a href="https://gitee.com/xnqysabout/ry-vue-flowable-xg">
-	  <img alt="旗舰版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn01.png">
+	  <img alt="旗舰版" src="https://gitee.com/xnqysabout/oa-flow-pms/raw/master/doc/images/btn01.png" width="85px" height="30px">
     </a>
 </p>
 
@@ -25,8 +26,11 @@
 ## 进度计划
 <table>
     <tr>
-        <td style="width: 200px;">细则描述</td>
-        <td>完成日期</td>
+        <td style="width: 200px;">细则描述</td><td>完成日期</td>
+    </tr>
+    <tr>
+        <td style="width: 200px;">完善工作台快捷导航跳转及移动端首页跳转；</td>
+        <td>2025-04-07</td>
     </tr>
     <tr>
         <td style="width: 200px;">完善移动端施工进度、质量管理、验收、财务全部功能；</td>
