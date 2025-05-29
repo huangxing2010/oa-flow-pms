@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程项目管理系统V2.0-NEW</h1>
-<h3 align="center" style="color: #19be6b">排斥低代码！用自己的方式忠于热爱！</h3>
+<h3 align="center" style="color: #19be6b">让你飞得更高,行得更远！用自己的方式忠于热爱！</h3>
 <h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，工作流集成Warm-Flow;移动端基于UniApp</h4>
 
 
@@ -27,6 +27,10 @@
 <table>
     <tr>
         <td style="width: 200px;">细则描述</td><td>完成日期</td>
+    </tr>
+    <tr>
+        <td style="width: 200px;">集成easyExcel，并优化项目预算导入导出及导入模板下载；祝小朋友大朋友节日快乐！</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td style="width: 200px;">完善工作台快捷导航跳转及移动端首页跳转；</td>
