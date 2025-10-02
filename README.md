@@ -29,8 +29,16 @@
         <td style="width: 200px;">细则描述</td><td>完成日期</td>
     </tr>
     <tr>
+        <td style="width: 200px;">同步升级若依最新版本v3.9.0，预览体验同步更新发布！</td>
+        <td>2025-10-01</td>
+    </tr>
+    <tr>
+        <td style="width: 200px;">同步升级warm-flow工作流为最新版本v1.8.2</td>
+        <td>2025-10-01</td>
+    </tr>
+    <tr>
         <td style="width: 200px;">项目预算扩展为人员、分包、管理、其他多类型，并汇总计算。</td>
-        <td>2025-09-30</td>
+        <td>2025-09-22</td>
     </tr>
     <tr>
         <td style="width: 200px;">集成easyExcel，并优化项目预算导入导出及导入模板下载；祝小朋友大朋友节日快乐！</td>
