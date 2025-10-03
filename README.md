@@ -4,7 +4,7 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">工程投标项目管理办公系统V2.0.1</h1>
 <h3 align="center" style="color: #19be6b">让你飞得更高,行得更远！用自己的方式忠于热爱！</h3>
-<h4 align="center">基于RuoYi-vue3.8.9开发，SpringBoot+Vue前后端分离，工作流集成Warm-Flow;移动端基于UniApp</h4>
+<h4 align="center">基于RuoYi-vue3.9.0开发，SpringBoot+Vue前后端分离，工作流集成Warm-Flow;移动端基于UniApp</h4>
 
 
 <p align="center" style="margin-top: 50px;">
